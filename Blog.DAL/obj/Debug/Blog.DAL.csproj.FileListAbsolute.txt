@@ -1,0 +1,11 @@
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll.config
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\obj\Debug\Blog.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\obj\Debug\Blog.DAL.csproj.CopyComplete
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+C:\Users\bartek\Desktop\Blog2019\Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb

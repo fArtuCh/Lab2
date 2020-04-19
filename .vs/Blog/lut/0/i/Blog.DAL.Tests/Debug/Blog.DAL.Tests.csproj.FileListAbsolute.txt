@@ -1,0 +1,8 @@
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\b\Blog.DAL.Tests\bin\Debug\blog-test.mdf
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\b\Blog.DAL.Tests\bin\Debug\Fixtures\posts.yml
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\b\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\b\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\i\Blog.DAL.Tests\Debug\Blog.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\i\Blog.DAL.Tests\Debug\Blog.DAL.Tests.csproj.CopyComplete
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\i\Blog.DAL.Tests\Debug\Blog.DAL.Tests.dll
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\i\Blog.DAL.Tests\Debug\Blog.DAL.Tests.csprojAssemblyReference.cache

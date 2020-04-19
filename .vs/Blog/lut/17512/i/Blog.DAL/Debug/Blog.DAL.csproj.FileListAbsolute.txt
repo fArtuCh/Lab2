@@ -1,0 +1,6 @@
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\b\Blog.DAL\bin\Debug\Blog.DAL.dll.config
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\b\Blog.DAL\bin\Debug\Blog.DAL.dll
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\i\Blog.DAL\Debug\Blog.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\i\Blog.DAL\Debug\Blog.DAL.csproj.CopyComplete
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\i\Blog.DAL\Debug\Blog.DAL.dll
+C:\Users\bartek\Desktop\Blog2019\Blog\.vs\Blog\lut\0\i\Blog.DAL\Debug\Blog.DAL.csprojAssemblyReference.cache
